@@ -1,0 +1,5 @@
+Studi kasus adalah tentang pengembangan aplikasi perjalanan wisata untuk kota fiksi bernama "AdventureLand". Dalam studi kasus ini, kita menggunakan algoritma yang sama untuk mencari rute terpendek antara berbagai objek wisata di AdventureLand.
+
+Dalam kasus ini, pengguna aplikasi dapat memasukkan tempat asal dan tujuan mereka, dan program akan menghitung rute terpendek antara kedua tempat tersebut, memastikan perjalanan mereka efisien dan tanpa hambatan.
+
+Dengan program ini, wisatawan dapat merencanakan perjalanan mereka dengan lebih baik, mengunjungi berbagai tempat wisata menarik di AdventureLand tanpa kesulitan dalam menavigasi kota tersebut. Program ini akan membantu meningkatkan pengalaman wisatawan dan memastikan mereka dapat menikmati semua atraksi yang ditawarkan oleh kota tersebut.
